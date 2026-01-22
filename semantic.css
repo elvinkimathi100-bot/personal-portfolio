@@ -1,0 +1,61 @@
+body{
+background-color: lemonchiffon;
+font-style: italic;
+font-family: Georgia, 'Times New Roman', Times, serif;
+margin-top: auto;
+border-radius: 5p;
+}
+header{
+background-color:antiquewhite;
+text-align: center;
+padding: 10px 0
+}
+nav ul li{
+    display: inline;
+    margin: 0 15px;
+    color: blueviolet;
+    border-radius: 5px;
+  
+}
+nav ul li a:hover{
+color: red;
+background-color: beige;
+
+}
+main{
+    width: 80%;
+    margin-bottom: 10px;
+    padding: 10px
+
+}
+h2{
+color: maroon;
+}
+h3{
+    color: red;
+}
+h4{
+    color: aqua;
+}
+section{
+margin-bottom: 10px;
+text-align: center;
+padding: 10px;
+box-shadow: 2px 2px 6px pink;
+margin-left: 3cm;
+margin-right: 3cm;
+background-color: bisque;
+
+
+}
+#skills{
+background-color: turquoise;
+
+}
+footer{
+background-color: burlywood;
+text-align: center;
+padding: 10px;
+color: darkgoldenrod;
+
+}
